@@ -52,6 +52,16 @@ Each entry in the dataset contains:
 - Confusion matrices and classification reports plotted.
 - Predictions generated on the test set using best-performing models.
 
+## Model Performance Summary
+
+| Model                | Accuracy (%) |
+|---------------------|--------------|
+| Random Forest        | 85.84        |
+| XGBoost              | 80.60        |
+| RNN                  | 95.41        |
+| LSTM                 | 97.69        |
+
+
 ## 📊 Results
 
 Both traditional and deep learning models were evaluated. Key findings:
